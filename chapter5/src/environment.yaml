@@ -1,0 +1,17 @@
+name: py310-chapter5-env
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.10
+- pip
+- pip:
+  - azure-ai-ml==1.5.0
+  - mlflow==2.2.2
+  - azureml-mlflow==1.49.0
+  - ipykernel
+  - numpy
+  - pandas
+  - xlrd
+  - scikit-learn
+  - lightgbm==3.3.5
