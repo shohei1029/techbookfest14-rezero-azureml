@@ -1,6 +1,8 @@
 # techbookfest14-rezero-azureml
 技術書典14で出版した書籍「Re: ゼロから始めるAzure Machine Learning」に記載したサンプルコードを掲載しているリポジトリです。
 
+コードを実行する上でのご不明点、ご質問は、本リポジトリのIssues/Pull requestsまたはTwitterアカウントまでお寄せください。
+
 書籍ページ：[Re:ゼロから始めるAzure Machine Learning：アジュール魔法魔術学校](https://techbookfest.org/product/xB5jAwDgZ6eMbZhk06gCiw)  
 Twitterアカウント：[アジュール魔法魔術学校@技術書典 / Twitter](https://twitter.com/azure_sww)
 
