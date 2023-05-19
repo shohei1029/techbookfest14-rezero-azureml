@@ -7,6 +7,10 @@
 Twitterアカウント：[アジュール魔法魔術学校@技術書典 / Twitter](https://twitter.com/azure_sww)
 
 ## Contents
-- 第3章: [モデルの学習と推論](chapter3/chapter3-learn-and-inference.ipynb)
-- 第5章: [MLflow](chapter5)
-- 第6章: [大規模言語モデル(LLM)のローコードデプロイ](chapter6/chapter6_cerebrasgpt.ipynb)
+- 第3章: モデルの学習と推論
+  - [chapter3/chapter3-learn-and-inference.ipynb](chapter3/chapter3-learn-and-inference.ipynb)
+- 第5章: MLflow
+  - [chapter5/chapter5_interactive.ipynb](chapter5/chapter5_interactive.ipynb)
+  - [chapter5/chapter5_job_execute.ipynb](chapter5/chapter5_job_execute.ipynb)
+- 第6章: 大規模言語モデル(LLM)のローコードデプロイ
+  - [chapter6/chapter6_cerebrasgpt.ipynb](chapter6/chapter6_cerebrasgpt.ipynb)
