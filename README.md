@@ -1,5 +1,5 @@
-# techbookfest14-rezero-azureml
-技術書典14で出版した書籍「Re: ゼロから始めるAzure Machine Learning」に記載したサンプルコードを掲載しているリポジトリです。
+# 「Re:ゼロから始めるAzure Machine Learning」サンプルリポジトリ
+技術書典14で出版した書籍「Re:ゼロから始めるAzure Machine Learning」に記載したサンプルコードを掲載しているリポジトリです。
 
 コードを実行する上でのご不明点、ご質問は、本リポジトリのIssues/Pull requestsまたはTwitterアカウントまでお寄せください。
 
